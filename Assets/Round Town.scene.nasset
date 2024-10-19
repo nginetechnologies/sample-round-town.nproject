@@ -186,8 +186,8 @@
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
-                        "7be15c72-f784-4f5e-b895-7cc2fbef6355",
-                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                        "irradiance": "c7155bc2-c75e-fdc0-485c-f53e04cea03b",
+                        "prefiltered": "7680e24f-aec9-f6a9-f9d2-398e5e80f4b7"
                     ]
                 },
                 {
